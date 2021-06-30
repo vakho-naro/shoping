@@ -1,0 +1,29 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "name": "H&M",
+      "adress": "somewhere"
+    },
+    {
+      "name": "shop 2",
+      "adress": "rustaveli",
+      "id": 2
+    },
+    {
+      "name": "shop 3",
+      "adress": "somewhere in Tbilisi",
+      "id": 3
+    },
+    {
+      "name": "shop 4",
+      "adress": "ChavChavadze",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "shop 5",
+      "adress": "somewhere"
+    }
+  ]
+}
